@@ -1,0 +1,5 @@
+ENTRY "/var/www" URL "/var/www"
+ENTRY "/mnt/disk/logs" URL "/mnt/disk/logs"
+ENTRY "/mnt/disk/share" URL "/mnt/disk/share"
+ENTRY "/home/alex" URL "/home/alex"
+ENTRY "/var/www/MSK_DDB_parser/lib" URL "/var/www/MSK_DDB_parser/lib"
